@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+
+li {
+	font-family: Papyrus;
+}
+
+ol {
+	padding: 40px;
+	margin: 30px 20px 40px 10px;
+	border: 2px dashed blue;
+}
